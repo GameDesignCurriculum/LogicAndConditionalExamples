@@ -1,14 +1,9 @@
 ﻿using System;
 namespace BooleanVariables
 {
-    public class BooleanVariableActivity
+    public static class BooleanVariableActivity
     {
-        #region Constructor
-        public BooleanVariableActivity()
-            {
-            }
-        #endregion
-
+     
         public static void Activity1()
         {
             bool isCorrect = true;
