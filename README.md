@@ -1,7 +1,8 @@
 # LogicAndConditionalExamples
-Coding examples to use during instruction 
+Coding examples to go along with the Logic and Conditionals Lesson in CodeHS in the Intro to Unity and C# course
 
-https://codespaces.new/${{ github.repository_owner }}/$${{ github.repository }}
+You can use Codespaces to try these out online or you can clone your repository to the desktop and use Visual Studio
 
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]([https://codespaces.new/GameDesignCurriculum/LogicAndConditionalExamples](https://codespaces.new/${{ github.repository_owner}}/$${{ github.repository }})https://codespaces.new/${{ github.repository_owner }}/$${{ github.repository }}?quickstart=1)
+
+
