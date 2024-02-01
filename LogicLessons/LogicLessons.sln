@@ -5,19 +5,19 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanVariables", "BooleanVariables\BooleanVariables.csproj", "{D89B609A-B022-47C2-9DD8-EFECC00C00DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourFirstIfStatement", "IfStatements\YourFirstIfStatement.csproj", "{E99A3790-F65A-4FAB-93A2-A332E72AF69E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise1", "IfStatements\Exercise1.csproj", "{E99A3790-F65A-4FAB-93A2-A332E72AF69E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseStatement", "IfElseStatement\IfElseStatement.csproj", "{798AF85A-8B83-4769-B7E2-C323CFF4CD46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise2", "IfElseStatement\Exercise2.csproj", "{798AF85A-8B83-4769-B7E2-C323CFF4CD46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3", "Exercise3\Exercise3.csproj", "{90C84F1F-CFAD-4F93-B1A7-CFFF07DC657D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise3", "Exercise3\Exercise3.csproj", "{90C84F1F-CFAD-4F93-B1A7-CFFF07DC657D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4", "Exercise4\Exercise4.csproj", "{C00EC301-0969-4204-B543-89E24654AF6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise4", "Exercise4\Exercise4.csproj", "{C00EC301-0969-4204-B543-89E24654AF6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise5", "Exercise5\Exercise5.csproj", "{80997B07-2FC7-4AAA-AA47-98AD531B7B9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise6", "Exercise5\Exercise6.csproj", "{80997B07-2FC7-4AAA-AA47-98AD531B7B9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise6", "Exercise6\Exercise6.csproj", "{8FF93338-3985-4D05-A72C-9F3D23265862}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise7", "Exercise6\Exercise7.csproj", "{8FF93338-3985-4D05-A72C-9F3D23265862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkhtarRevisited", "AkhtarRevisited\AkhtarRevisited.csproj", "{876A4350-7563-4DC5-A61A-E593F9C8C0B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise5", "AkhtarRevisited\Exercise5.csproj", "{876A4350-7563-4DC5-A61A-E593F9C8C0B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

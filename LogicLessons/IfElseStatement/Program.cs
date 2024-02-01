@@ -1,4 +1,4 @@
-﻿namespace IfElseStatement
+﻿namespace Exercise2
 {
     internal class Program
     {

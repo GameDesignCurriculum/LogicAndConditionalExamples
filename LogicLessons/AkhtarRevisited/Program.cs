@@ -1,20 +1,21 @@
 ﻿using System.Reflection.Metadata;
 
-namespace AkhtarRevisited
+namespace Exercise5;
+/// <summary>
+/// Akhtar Revisited
+/// </summary>
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            
-            // Instantiate a random number generator (RNG)
-            Random random = new Random();
-            
-            // Declare variable for dice roll and the value to a random # betwen 1 & 6 (inclusive)
-            int diceRoll = random.Next(1, 7);
+        
+        // Instantiate a random number generator (RNG)
+        Random random = new Random();
+        
+        // Declare variable for dice roll and the value to a random # betwen 1 & 6 (inclusive)
+        int diceRoll = random.Next(1, 7);
 
 
- 
-        }
+
     }
 }

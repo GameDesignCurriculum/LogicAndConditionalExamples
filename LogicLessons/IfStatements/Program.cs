@@ -1,5 +1,7 @@
-﻿namespace YourFirstStatement
-{
+﻿namespace Exercise1
+{/// <summary>
+/// Your first if statement
+/// </summary>
     internal class Program
     {
         static void Main(string[] args)
